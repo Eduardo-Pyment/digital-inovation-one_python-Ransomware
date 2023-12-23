@@ -1,0 +1,2 @@
+Este arquivo esta legivel
+e será criptografado utilizando os scripts disponibilizados
